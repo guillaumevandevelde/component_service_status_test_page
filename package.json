@@ -1,0 +1,12 @@
+{
+  "dependencies": { 
+    "d09-service-status": "^0.0.4",   
+    "lit-service-status-component": "^0.0.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --watch --app-index index.html"
+  } 
+}
